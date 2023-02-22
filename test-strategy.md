@@ -10,7 +10,7 @@ Errores logicos
 5) línea 74 y 75 se deben de integrar dentro de las condiciones que evalúan si el número es menor o mayor.
 6) En la línea 58 agregamos parseInt() para capturar el valor en entero y no como Sting.
 7) Para que el número sea aleatorio hasta el 100 debemos de multiplicar, en la línea 44, por 100.
-8) Se agrega otra condición que evalúe si el número es un entero o decimal.
+8) Se agrega otra condición que evalúe si el número es un entero o decimal y se muestre la alerta.
 9) Se agrega otra condición para que el valor que no es entero no se guarde.
 
 Nota:se agregaron comentarios en el código para que puedan visualizar donde fue que se agregó código para completar el programa.
